@@ -1,0 +1,5 @@
+Jim-Manager
+Kim-Manager
+Jordan-Salesman
+Jonathan-Doorman
+Arthur - Accountant
